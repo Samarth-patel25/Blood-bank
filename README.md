@@ -306,7 +306,7 @@ Example:
 
 B.Tech Computer Science Engineering Student
 
-GitHub: [https://github.com/your-github-username](https://github.com/Samarth-patel25)
+GitHub: https://github.com/Samarth-patel25
 
 ---
 
