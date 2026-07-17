@@ -320,8 +320,3 @@ If you found this project useful:
 
 🤝 Contribute to make it better
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
